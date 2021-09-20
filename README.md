@@ -1,6 +1,6 @@
 # Dialogue
 
-A basic interactive dialogue system developed with Unreal Engine 4 using a component based approach.
+A basic interactive dialogue system developed with Unreal Engine 4.27 using a component based approach.
 
 A third person example using behaviour trees to control the dialogue. 
 
